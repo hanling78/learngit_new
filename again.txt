@@ -5,3 +5,5 @@ base
 #不要多次commit，对于如何修改的没有必要全部提交上去，让别人知道你无知的错误
 #如果多次提交怎么办
 #第二部分；时光穿梭机
+git reset head~1 #用于回退到commit提交的前一个点上
+git status #可以用于查询回退命令提示 git reset Head file (add) git checkout -- file (工作区)
