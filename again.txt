@@ -2,3 +2,5 @@ learn git again
 commit meaning
 many add one commit
 base
+#不要多次commit，对于如何修改的没有必要全部提交上去，让别人知道你无知的错误
+#如果多次提交怎么办
